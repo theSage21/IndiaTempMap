@@ -11,10 +11,10 @@ Cities with no data uploaded appear white.
 
 Useage
 ======
+    import mapgen
 
-import mapgen
+    Wmap=mapgen.WeatherMap()
+    Wmap.make()
+    Wmap.show()
+    Wmap.save('myfile.jpg')
 
-Wmap=mapgen.WeatherMap()
-Wmap.make()
-Wmap.show()
-Wmap.save('myfile.jpg')
