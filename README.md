@@ -8,7 +8,7 @@ Data pulled from
 http://imd.gov.in/
 
 Cities with no data uploaded appear white.
-
+![Temperature map](map.jpg)
 
 
 Useage
